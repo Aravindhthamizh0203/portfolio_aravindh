@@ -1,0 +1,18 @@
+.cont {
+  border: 2%;
+  padding: 10% 1% 0% 1%;
+}
+.text {
+  border: 1%;
+  padding: 10rem 1rem 0rem 1rem;
+}
+.col-md-6img {
+  height: 3rem;
+  width: 7rem;
+}
+.avatar {
+  border-radius: 10%;
+}
+.home {
+  padding: 3rem;
+}

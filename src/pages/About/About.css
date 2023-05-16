@@ -1,0 +1,10 @@
+.about {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  margin: 6.8rem;
+  padding: 5.5rem;
+}
+.tell {
+  padding: 3rem;
+}
