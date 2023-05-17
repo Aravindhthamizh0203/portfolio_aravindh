@@ -4,6 +4,7 @@ import { CardBody, CardLink, CardSubtitle, CardText, CardTitle } from 'reactstra
 import iceandfire from '../../Assets/Image/Iceandfire.png'
 import portfolio from '../../Assets/Image/Portfolio.png'
 import student from '../../Assets/Image/Student-admin.png'
+import test from '../../Assets/Image/test.png'
 import './Project.css'
 function Project() {
     return (
@@ -100,7 +101,7 @@ function Project() {
                             </CardBody>
                             <img
                                 alt="Card cap"
-                                src="https://picsum.photos/318/180"
+                                src={test}
                                 width="100%"
                             />
                             <CardBody>
@@ -116,7 +117,7 @@ function Project() {
                             </CardBody>
                         </Card>
                     </div>
-                    <div className='col-md-4'>
+                    <div className='col-md-6'>
                         <Card className='card'
                             style={{
                                 width: '20rem', backgroundColor: '#BCF5D1'
