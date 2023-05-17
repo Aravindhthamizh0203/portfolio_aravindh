@@ -29,7 +29,7 @@ function Contect() {
                         </div>
 
                     </div>
-                    <div className='col-md-6'><br />
+                    <div className='col-md-5'><br />
                         <img src={hand} alt='hand LOGO' className='logo' />
                         <br />
                         <h6 className='hand'>Have a Good Day👍.</h6>
