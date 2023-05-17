@@ -17,6 +17,7 @@ import netlify from '../../Assets/Netlify.svg'
 import render from '../../Assets/Render.svg'
 import github from '../../Assets/Github.svg'
 import regex from '../../Assets/regex.svg'
+import vercel from '../../Assets/triangle-fill.svg'
 
 function Skill() {
     return (
@@ -57,6 +58,9 @@ function Skill() {
                     </div>
                     <div className='col-md-2'>
                         <img src={github} alt='github LOGO' className='logo' /><br /><h6>GITHUB</h6>
+                    </div>
+                    <div className='col-md-2'>
+                        <img src={vercel} alt='vercel LOGO' className='logo' /><br /><h6>VERCEL</h6>
                     </div>
                 </div>
             </div><br /><br />
