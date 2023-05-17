@@ -1,0 +1,12 @@
+.card {
+  padding: 2.5rem;
+  border: 6rem;
+}
+.col-md-4 {
+  padding-top: 1.3rem;
+  padding-bottom: 1.3rem;
+}
+.link {
+  text-decoration: none;
+  font-weight: bold;
+}

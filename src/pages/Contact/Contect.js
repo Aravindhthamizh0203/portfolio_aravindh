@@ -1,9 +1,9 @@
 import React from 'react'
-import hand from '../../Assets/hand.svg'
-import call from '../../Assets/telephone.svg'
-import mail from '../../Assets/mail.svg'
-import github from '../../Assets/github1.svg'
-import insta from '../../Assets/instagram.svg'
+import hand from '../../Assets/Svg/hand.svg'
+import call from '../../Assets/Svg/telephone.svg'
+import mail from '../../Assets/Svg/mail.svg'
+import github from '../../Assets/Svg/github1.svg'
+import insta from '../../Assets/Svg/instagram.svg'
 import './Contect.css'
 function Contect() {
     return (

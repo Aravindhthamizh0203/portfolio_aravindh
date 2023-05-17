@@ -1,11 +1,7 @@
 import React from 'react'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Nav, NavItem, NavLink } from 'react-bootstrap';
-// import Home from './Home';
-// import About from './About';
-// import Skill from './Skill';
-// import Project from './Project';
-// import Contect from './Contect';
+
 import './Topbar.css'
 function Topbar() {
   return (

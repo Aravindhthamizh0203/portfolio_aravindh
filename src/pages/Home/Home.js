@@ -1,6 +1,6 @@
 import React from 'react'
 import "./Home.css"
-import avti from '../../Assets/avti.png'
+import avti from '../../Assets/Image/avti.png'
 function Home() {
     return (
         <div>
