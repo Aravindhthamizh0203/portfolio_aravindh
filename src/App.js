@@ -10,7 +10,7 @@ import Topbar from './pages/Topbar/Topbar';
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <BrowserRouter><header><Topbar /></header>
         <Routes>
           <Route path='/' element={<Home />} />
