@@ -1,14 +1,14 @@
 .cont {
   border: 2%;
-  padding: 10% 1% 0% 1%;
+  padding: 8% 1% 0% 1%;
 }
 .text {
-  border: 1%;
-  padding: 10rem 1rem 0rem 1rem;
+  border: 10%;
+  padding: 6rem 1rem 0rem 1rem;
 }
-.col-md-6img {
-  height: 3rem;
-  width: 7rem;
+.col-lg-6 > img {
+  height: 23rem;
+  width: 21rem;
 }
 .avatar {
   border-radius: 10%;

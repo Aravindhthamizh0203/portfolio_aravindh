@@ -11,7 +11,7 @@ function Project() {
         <div>
             <div className='container'>
                 <div className='row'>
-                    <div className='col-md-4'>
+                    <div className='col-lg-4'>
                         <Card className='card'
                             style={{
                                 width: '20rem', backgroundColor: '#BCF5D1'
@@ -46,7 +46,7 @@ function Project() {
                             </CardBody>
                         </Card>
                     </div>
-                    <div className='col-md-4'>
+                    <div className='col-lg-4'>
                         <Card className='card'
                             style={{
                                 width: '20rem',
@@ -82,7 +82,7 @@ function Project() {
                             </CardBody>
                         </Card>
                     </div>
-                    <div className='col-md-4'>
+                    <div className='col-lg-4'>
                         <Card className='card'
                             style={{
                                 width: '20rem', backgroundColor: '#BCF5D1'
@@ -117,7 +117,7 @@ function Project() {
                             </CardBody>
                         </Card>
                     </div>
-                    <div className='col-md-6'>
+                    <div className='col-lg-6'>
                         <Card className='card'
                             style={{
                                 width: '20rem', backgroundColor: '#BCF5D1'
